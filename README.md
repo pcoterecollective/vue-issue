@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite
+# __vue_app__._instance is missing in production
 
 ## Steps to reproduce
 - Clone repo and install dependencies using `yarn`;
